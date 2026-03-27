@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+chromadb
+tiktoken
+pypdf
+unstructured
+fastapi
+python-multipart
