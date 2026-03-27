@@ -1,5 +1,5 @@
 <div align="center">
-  ![Lumpo](readme_images/lumo.png)
+  <img src="https://github.com/joaofmsilvaa/Lumen-AI/blob/main/readme_images/img1.png" alt="Frontend">
 </div>
 
 # Lumen-AI
@@ -7,10 +7,6 @@
 Lumen-AI is an AI-powered document assistant that leverages Retrieval-Augmented Generation (RAG) to provide intelligent answers, sources, and suggestions based on uploaded PDF documents. It features a robust Python FastAPI backend for AI processing and a dynamic Next.js frontend with an interactive chat interface, file upload capabilities, and integrated gamification elements for an engaging user experience.
 
 ## ✨ Key Features & Benefits
-
-<div align="center">
-  ![Key Features](readme_images/img1.png)
-</div>
 
 *   **Intelligent Document Querying**: Ask natural language questions about your PDF documents and receive accurate, context-aware answers.
 *   **Retrieval-Augmented Generation (RAG)**: Combines powerful language models with document retrieval to ensure responses are grounded in your data, minimizing hallucinations.
